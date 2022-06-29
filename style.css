@@ -1,0 +1,36 @@
+p {
+    color: black;
+    font-size: 50px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+.text{
+    color:#13274F;
+    font-size: 30px;
+    line-height: 40px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align: center;
+    font-weight: 400;
+}
+.text1{
+    color:#00CED1; 
+    font-size: 30px;
+    line-height: 40px;
+    lighting-color: azure;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.text2 {
+    color:aqua;
+    font-size: 30px;
+    line-height: 40px;
+    font-family: 'League Gothic', sans-serif;
+    font-weight: 300;
+    }
+    .text3 {
+        color:white;
+        font-size: 30px;
+        font-family: 'Oleo Script Swash Caps', cursive;
+        lighting-color: azure;
+        text-align:left;
+        font-weight: 300;
+    }
